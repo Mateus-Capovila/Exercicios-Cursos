@@ -1,0 +1,5 @@
+Extrair método - quebrar um método grande em métodos menores, selecionando as linhas que queremos separar
+Internalizar método - mesma coisa que extrair, mas selecionando o método em si
+Internalizar variável temporária - o valor da variável é passado como parâmetro do método
+Dividir a variável temporária - dividir as responsabilidades da variável com outras variáveis
+Extrair classe - dividir a lógica em outras classes
